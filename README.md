@@ -8,7 +8,7 @@ All things Demo. Made by Chrissyx and TheAppleUser
 
 ## DemoLoop MacBook Air
 
-### Download the "M1,M3,M4_Demo.zip from releases, and extract it.
+### Download the "M1,M3,M4_Demo.zip from the top, and extract it.
 ### Once you got it open the folder and look for "com.apple.ist.DemoLoop" then, hit Command-Space, that opens spotlight and type this in '~/Library/Containers/' and hit enter. This will open the Containers folder.
 ### Move the "com.apple.ist.DemoLoop from the folder to the Containers folder. You can close this window now.
 ### Move the DemoLoop app to Applications folder and launch it.
