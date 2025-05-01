@@ -6,8 +6,8 @@ All things Demo. Made by Chrissyx and TheAppleUser
 
 # GUIDES FOR INSTALLATION:
 
-<details>
-<summary>DemoLoop Guide</summary>
+## <details>
+## <summary>DemoLoop Guide</summary>
 
 ## DemoLoop MacBook Air
 
@@ -25,7 +25,7 @@ All things Demo. Made by Chrissyx and TheAppleUser
 
 ## Any Other Question? Open an Issue.
 
-</details>
+## </details>
 
 ### Credit list
 
