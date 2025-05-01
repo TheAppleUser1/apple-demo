@@ -6,6 +6,9 @@ All things Demo. Made by Chrissyx and TheAppleUser
 
 # GUIDES FOR INSTALLATION:
 
+<details>
+<summary>DemoLoop Guide</summary>
+
 ## DemoLoop MacBook Air
 
 ### Download the "M1,M3,M4_Demo.zip from the top, and extract it.
@@ -22,9 +25,18 @@ All things Demo. Made by Chrissyx and TheAppleUser
 
 ## Any Other Question? Open an Issue.
 
+</details>
+
 ### Credit list
 
 #### ChrissyX (Now DemoLoop collector): Twitter: https://x.com/AplIntelligence --- TheAppleUser11(past DemoLoop collector, Will collect "MacDoesThat"): Twitter: https://x.com/TheAppleUser11
 
 # Please do not steal our hard work on Apple Demo. We worked hard to collect these/this app(s).
+
+### Copyright Disclaimer (Legal Mumbo-Jumbo)
+We, as the maintainers of this repository, do not claim ownership of Apple’s demo content, assets, or trademarks. All demo materials provided here were publicly available on demo devices and accessible without bypassing any form of protection or DRM. This project exists solely for archival, and personal experimentation purposes.
+
+We do not distribute modified, cracked, or reverse-engineered Apple software and do not endorse commercial use, redistribution, or resale of these demo assets. Our intent is purely to preserve and document demo materials that are already available on Apple devices in retail settings. (and that is purely a bad move towards a good company)
+
+If you from Apple, and you'd like to dispute the content of this repository, please contact me at my Work email: daniel@thatappleuser.xyz. This should be used to Contact me. And if you believe any content here violates Apple's rights, contact us directly, we’ll respond quickly and respectfully.
 
