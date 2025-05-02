@@ -29,7 +29,7 @@ All things Demo. Made by Chrissyx and TheAppleUser
 
 #### Credit list
 
-#### ChrissyX (Now DemoLoop collector): Twitter: https://x.com/AplIntelligence --- TheAppleUser11(past DemoLoop collector, Will collect "MacDoesThat"): Twitter: https://x.com/TheAppleUser11
+#### ChrissyX (Now DemoLoop collector): Twitter: https://x.com/AplIntelligence --- TheAppleUser11(past DemoLoop collector"): Twitter: https://x.com/TheAppleUser11
 
 # Please do not steal our hard work on Apple Demo. We worked hard to collect these/this app(s).
 
