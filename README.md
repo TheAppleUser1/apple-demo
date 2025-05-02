@@ -31,7 +31,14 @@ All things Demo. Made by Chrissyx and TheAppleUser
 
 #### ChrissyX (Now DemoLoop collector): Twitter: https://x.com/AplIntelligence --- TheAppleUser11(past DemoLoop collector"): Twitter: https://x.com/TheAppleUser11
 
-# Please do not steal our hard work on Apple Demo. We worked hard to collect these/this app(s).
+# Please do not steal our hard work on Apple Demo. We worked hard to collect these/this app(s), and with that:
+
+## License [![License: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
+## This project is licensed under the CC BY-ND 4.0 License.  
+## See [LICENSE](./LICENSE) for details.
+
 
 ### Copyright Disclaimer (Legal Mumbo-Jumbo)
 We, as the maintainers of this repository, do not claim ownership of Apple’s demo content, assets, or trademarks. All demo materials provided here were publicly available on demo devices and accessible without bypassing any form of protection or DRM. This project exists solely for archival, and personal experimentation purposes.
